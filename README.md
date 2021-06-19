@@ -1,25 +1,19 @@
-# Master CT Assignment Template 
-
-Use this master template to create CT Assignment Templates.
+# Errors, Debugging and Comments
 
 ## Problem Description
-Problem description goes here. 
-
-* Steps to take go here. 
+The starter code contains *several* errors. Correct them all.
+The program should prompt the user for their favorite math class and respond that it loves that class.
 
 ## Example
 ```
-Value to increment? 5
-10
+user input: algebra
+output: I love algebra!
 ```
 
-## Suggested Approach
-1) Suggestions go here
-
-## Hints
-* Use the section under `if __name__ == '__main__': ` to change arguments and check your work.
-* When you are happy with your code, use `input()` to prompt the user for a value.
-* Add code to [my_code.py](./my_code.py) to make it do the desired thing.
-* Run your code with: `python my_code.py` or the run button
-* Run your tests with: `pytest`
+## Notes
+* Test your code with at least two different inputs to be sure it works as expected.
+* Commit and Push to GitHub
+* Check the repo website and look for a green check mark. That indicates the tests have passed successfully.
+  * If you see a yellow dot, that means GitHub is still running the test. Keep refreshing the window until the circle changes.
+  * If you see a red X, one or both tests have failed and there is an error in your program. See Megan for help finding the feedback in GitHub so you know what issue(s) to resolve.
 
