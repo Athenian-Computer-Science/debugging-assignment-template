@@ -1,4 +1,4 @@
-# Errors, Debugging and Comments
+# Debugging Practice
 
 ## Problem Description
 The starter code contains *several* errors. Correct them all.
