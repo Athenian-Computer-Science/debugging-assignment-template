@@ -17,3 +17,7 @@ output: I love algebra!
   * If you see a yellow dot, that means GitHub is still running the test. Keep refreshing the window until the circle changes.
   * If you see a red X, one or both tests have failed and there is an error in your program. See Megan for help finding the feedback in GitHub so you know what issue(s) to resolve.
 
+
+**Attribution:**
+
+Thank you to Bianca Ruiz [@RuiztheRuler](https://github.com/RuizTheRuler) for providing a great starting place for automating feedback!
